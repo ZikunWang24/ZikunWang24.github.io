@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.02a41b25.chunk.css",
+    "main.js": "/static/js/main.8f82c0c3.chunk.js",
+    "main.js.map": "/static/js/main.8f82c0c3.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.447c0dda.js",
+    "runtime-main.js.map": "/static/js/runtime-main.447c0dda.js.map",
+    "static/js/2.ef512996.chunk.js": "/static/js/2.ef512996.chunk.js",
+    "static/js/2.ef512996.chunk.js.map": "/static/js/2.ef512996.chunk.js.map",
+    "static/css/3.25727338.chunk.css": "/static/css/3.25727338.chunk.css",
+    "static/js/3.4107b202.chunk.js": "/static/js/3.4107b202.chunk.js",
+    "static/js/3.4107b202.chunk.js.map": "/static/js/3.4107b202.chunk.js.map",
+    "static/css/4.a8329f31.chunk.css": "/static/css/4.a8329f31.chunk.css",
+    "static/js/4.545c8b17.chunk.js": "/static/js/4.545c8b17.chunk.js",
+    "static/js/4.545c8b17.chunk.js.map": "/static/js/4.545c8b17.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.1fbea37e287116146318fe0adb96f2eb.js": "/precache-manifest.1fbea37e287116146318fe0adb96f2eb.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/3.25727338.chunk.css.map": "/static/css/3.25727338.chunk.css.map",
+    "static/css/4.a8329f31.chunk.css.map": "/static/css/4.a8329f31.chunk.css.map",
+    "static/css/main.02a41b25.chunk.css.map": "/static/css/main.02a41b25.chunk.css.map",
+    "static/js/2.ef512996.chunk.js.LICENSE.txt": "/static/js/2.ef512996.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/Montserrat-Regular.847627bf.ttf",
+    "static/media/contactMailDark.svg": "/static/media/contactMailDark.51cf7192.svg",
+    "static/media/corona.jpeg": "/static/media/corona.76fc614d.jpeg",
+    "static/media/cour.png": "/static/media/cour.3952f41b.png",
+    "static/media/developerActivity.svg": "/static/media/developerActivity.59389695.svg",
+    "static/media/grosafe.JPG": "/static/media/grosafe.e49be36d.JPG",
+    "static/media/gzlz.png": "/static/media/gzlz.9a56a291.png",
+    "static/media/manOnTable.svg": "/static/media/manOnTable.52be3144.svg",
+    "static/media/ossc.png": "/static/media/ossc.d7d8ac16.png",
+    "static/media/skill.svg": "/static/media/skill.34409398.svg",
+    "static/media/TalkCard.scss": "/static/media/talksCardBack.13780cdd.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.447c0dda.js",
+    "static/js/2.ef512996.chunk.js",
+    "static/css/main.02a41b25.chunk.css",
+    "static/js/main.8f82c0c3.chunk.js"
+  ]
+}
